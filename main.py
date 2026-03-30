@@ -1,4 +1,4 @@
-from register_student import  * #Here, the import function is for registering students.
+from funtions import  * #Here, the import function is for registering students.
 list_student = []#this list is for saveing study information 
 keep_registe = "yes"
 while keep_registe == "yes":
@@ -19,28 +19,23 @@ while keep_registe == "yes":
             --------------------------------------------------------------                   
             enter a option => """)).strip()
                 
-
-            # Option 1: Call function to add products to inventory
         if option =="1":
             register_student(list_student)
 
-        # Option 2: Display all products in inventory
         elif option == "2":
             consult_list(list_student)
 
-        # Option 3: Search for a specific product
         elif option == "3":
             show_inf(list_student)
 
-        # Option 4: Update product information
         elif option == "4":
             update_student(list_student)
 
-        # Option 5: Save inventory to CSV file
+       
         elif option == "5":
             delete_student(list_student)
 
-        elif option == "9":
+        elif option == "6":
 
             print ("Exting...")
             print()
