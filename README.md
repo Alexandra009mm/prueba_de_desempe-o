@@ -7,3 +7,7 @@ Furthermore, it provides a summary of the student roster, allowing users to view
 
 ##author
 alexandra peña
+likn repositorio:
+https://github.com/Alexandra009mm/prueba_de_desempe-o.git
+
+ruta videos: /home/Cohorte5/Videos/Grabaciones de la pantalla
