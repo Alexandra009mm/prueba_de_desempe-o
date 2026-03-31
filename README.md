@@ -1,12 +1,33 @@
-# 📦 sistem students
+# 📦 Student System
 
-## 📖 Description 
-This project is a console-based system designed for efficient student data management. It allows users to interact through a structured menu, perform various actions, and manage information in an organized manner. The system includes data validation to ensure accuracy and prevent errors during operation.
+## 📖 Description
 
-Furthermore, it provides a summary of the student roster, allowing users to view registered students. This project demonstrates fundamental programming concepts such as modular design, data management, and user interaction. It can be easily adapted to different educational systems.
+This project is a console-based system designed to manage student information efficiently. It allows users to interact through a structured menu, perform different operations, and store data in an organized way.
 
-##author
-alexandra peña
+The system includes input validation to ensure accurate data and prevent errors during execution. Users can register students, view a list of names, display full student information, update records, and delete students.
+
+This project demonstrates fundamental programming concepts such as:
+
+* Modular design (functions)
+* Data structures (lists and dictionaries)
+* User input validation
+* Control flow and loops
+
+It can be easily adapted to different educational environments or expanded with new features.
+
+## 🚀 Features
+
+* Add new students
+* View student list
+* Show full student information
+* Update student data
+* Delete students
+* Input validation for all fields
+
+## 👩‍💻 Author
+
+Alexandra Peña
+
 likn repositorio:
 https://github.com/Alexandra009mm/prueba_de_desempe-o.git
 
